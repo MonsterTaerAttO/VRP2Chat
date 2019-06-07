@@ -1,7 +1,7 @@
 # VRP2Chat
 A vrp 2 chat
 # Installation
-Delete your current chat and replace it with the one in the folder
+Delete your current chat and replace it with the one in the folder <br>
 you need to add some permissions to your groups in vrp/cfg/groups.lua
 
 owner.title = the owner group <br>
